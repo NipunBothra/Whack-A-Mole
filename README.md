@@ -5,3 +5,5 @@ Whac-A-Mole is a classic arcade game where players try to hit the popping moles 
 Click or tap the moles as they pop out of their holes.
 You earn points for each mole you hit.
 Game Over when you click piranha plant.
+
+The website is hosted on https://nipunbothra.github.io/Whack-A-Mole/
